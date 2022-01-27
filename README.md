@@ -4,6 +4,21 @@
 <p> Here you can find some of my college works, professional projects and some scratchs 😄</p>
  <br>
 
+## is there any other work? 🤔
+<ul>
+ <li>
+  <a target="_blank" href="http://apdz.com.br/">APDZ Website</a>
+ </li>
+ <li>
+     <a target="_blank" href="https://www.neoenergia.com/pt-br/Paginas/default.aspx">NEOEnergia Website</a>
+ </li>
+ <li>
+  <a target="_blank" href="">Cultura Inglesa Website (Deactivated)</a>
+ </li>
+  <li>
+   Multiples Sharepoints for <a target="_blank" href="https://www.gsk.com/en-gb/">GSK</a>
+ </li>
+</ul>
 <p>
  
  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -38,7 +53,6 @@
 
 <!-- STREAKS SCORE  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovmp&" alt="joaovmp" /></p>
 <!--
-**joaovmp/joaovmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
