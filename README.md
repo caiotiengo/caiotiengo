@@ -20,6 +20,9 @@
  <li>
   <a target="_blank" href="https://github.com/caiotiengo/faceRecognition"> Python Face Recognition </a>
  </li>
+ <li>
+  <a target="_blank" href="https://github.com/caiotiengo?tab=repositories&q=&type=source&language=typescript&sort=stargazers">TypeScript Projects</a>
+ </li>
 </ul>
 <p>
  
