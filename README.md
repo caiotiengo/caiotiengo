@@ -2,7 +2,6 @@
 ## What's up? 🚀🌿
 <h4> My name's Caio Tiengo, and this is my Github.</h4>
 <p> Here you can find some of my college works, professional projects and some scratchs 😄</p>
- <br>
 
 ## is there any other work? 🤔
 <ul>
@@ -44,11 +43,11 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiotiengo&show_icons=true&locale=en&layout=compact" alt="caiotiengo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiotiengo&show_icons=true&locale=en&layout=compact" alt="caiotiengo" />
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=caiotiengo&show_icons=true&locale=en" alt="caiotiengo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiotiengo&show_icons=true&locale=en" alt="caiotiengo" />
 
 
 <h2>&nbsp</h2>
