@@ -13,10 +13,13 @@
      <a target="_blank" href="https://www.neoenergia.com/pt-br/Paginas/default.aspx">NEOEnergia Website</a>
  </li>
  <li>
-  <a target="_blank" href="">Cultura Inglesa Website (Deactivated)</a>
+  <a target="_blank" href="https://github.com/caiotiengo/ionic-moip-sdk">Financial Library for Ionic and Angular projects</a>
  </li>
   <li>
    Multiples Sharepoints for <a target="_blank" href="https://www.gsk.com/en-gb/">GSK</a>
+ </li>
+ <li>
+  <a target="_blank" href="https://github.com/caiotiengo/faceRecognition"> Python Face Recognition </a>
  </li>
 </ul>
 <p>
