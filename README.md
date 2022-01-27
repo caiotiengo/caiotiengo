@@ -1,8 +1,7 @@
 
-<h1 align="center">Just dived into the world of coding.</h1>
-
-
-
+## What's up? 🚀🌿
+<h4> My name's Caio Tiengo, and this is my Github.</h4>
+<p> Here you can find some of my college works, professional projects and some scratchs 😄</p>
  <br>
 
 <p>
